@@ -1,0 +1,36 @@
+#apresentacao{
+    text-align: center;
+}
+
+#apresentacao img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+#sobre p:last-of-type{
+    text-align: center;
+}
+
+#formacao ul{
+    list-style-type: '💻';
+}
+
+#sobre p a img{
+    width: 40px;
+}
+
+#experiencia table{
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#experiencia th{
+    background: #ccc;
+}
+
+#experiencia td, #experiencia th{
+    border: 1px solid #ddd;
+    padding: 20px;
+}
